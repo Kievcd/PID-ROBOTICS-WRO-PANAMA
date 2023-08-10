@@ -1,4 +1,4 @@
-# LittleRobot Future Engineers
+# PID ROBOTICS Future Engineers PANAMA
 At this repository you can see all files of our documentation. Look at our branch and open files to see robot's photos, team photo, 3D models and etc.
 ## File description
 
